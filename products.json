@@ -206,5 +206,101 @@
     "pack": "24-pack",
     "cat": "Drinks",
     "img": ""
+  },
+  {
+    "id": "new-medium-bags",
+    "name": "White Medium Vest Carrier Bags",
+    "price": 0,
+    "pack": "10 packets • 11 × 17 × 21 (approx.)",
+    "cat": "Bags & Household",
+    "img": "assets/medium-vest-carrier-bags.jpg"
+  },
+  {
+    "id": "new-jumbo-bags",
+    "name": "Jumbo White Vest Carrier Bags",
+    "price": 0,
+    "pack": "10 packets • 13 × 19 × 24 (approx.)",
+    "cat": "Bags & Household",
+    "img": "assets/jumbo-white-vest-carrier-bags.jpg"
+  },
+  {
+    "id": "new-pk-veg",
+    "name": "PK Premium Quality Vegetable Bag Extra Strong",
+    "price": 0,
+    "pack": "20 rolls per carton",
+    "cat": "Bags & Household",
+    "img": "assets/pk-vegetable-bag-extra-strong.jpg"
+  },
+  {
+    "id": "new-s1-bags",
+    "name": "S1 Black Bottle Vest Carrier Bags",
+    "price": 0,
+    "pack": "20 packets • 1400 bags • 7.5 × 12.5 × 17.5 (approx.)",
+    "cat": "Bags & Household",
+    "img": "assets/s1-black-bottle-vest-carrier-bags.jpg"
+  },
+  {
+    "id": "new-useit",
+    "name": "USE IT! Kitchen Roll",
+    "price": 0,
+    "pack": "Pack size to confirm",
+    "cat": "Bags & Household",
+    "img": "assets/use-it-kitchen-roll.jpg"
+  },
+  {
+    "id": "new-strawberry-ice",
+    "name": "Strawberry ICE",
+    "price": 0,
+    "pack": "24 × 330ml",
+    "cat": "Drinks",
+    "img": "assets/strawberry-ice.jpg"
+  },
+  {
+    "id": "new-ice-pro",
+    "name": "ICE Pro",
+    "price": 0,
+    "pack": "24 × 330ml",
+    "cat": "Drinks",
+    "img": "assets/ice-pro.jpg"
+  },
+  {
+    "id": "new-lemon-ice",
+    "name": "Lemon ICE",
+    "price": 0,
+    "pack": "24 × 330ml",
+    "cat": "Drinks",
+    "img": "assets/lemon-ice.jpg"
+  },
+  {
+    "id": "new-orange-ice",
+    "name": "Orange ICE",
+    "price": 0,
+    "pack": "24 × 330ml",
+    "cat": "Drinks",
+    "img": "assets/orange-ice-latest.jpg"
+  },
+  {
+    "id": "new-mango-ice",
+    "name": "Mango ICE",
+    "price": 0,
+    "pack": "24 × 330ml",
+    "cat": "Drinks",
+    "img": "assets/mango-ice.jpg"
+  },
+  {
+    "id": "new-drinka",
+    "name": "Drinka Natural Spring Water",
+    "price": 0,
+    "pack": "12 × 500ml",
+    "cat": "Drinks",
+    "img": "assets/drinka-natural-spring-water.jpg"
+  },
+  {
+    "id": "new-monster-ultra",
+    "name": "Monster Energy Ultra",
+    "price": 0,
+    "pack": "Pack size to confirm",
+    "cat": "Drinks",
+    "img": "assets/monster-ultra-latest.jpg"
   }
 ]
